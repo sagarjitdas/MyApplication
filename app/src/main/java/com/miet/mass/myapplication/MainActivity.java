@@ -21,7 +21,6 @@ import com.google.android.gms.vision.face.Face;
 import com.google.android.gms.vision.face.FaceDetector;
 
 public class MainActivity extends AppCompatActivity {
-
     ImageView myImageView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
